@@ -7,7 +7,6 @@ Interface de Linha de Comando (CLI) para interagir com um servidor de calculador
 
 ## Pré-requisitos
 - Java JDK 11 ou superior
-- Servidor RMI em execução (veja [Instruções do Servidor](#instruções-do-servidor))
 
 ---
 
